@@ -8,10 +8,10 @@ public class Weight {
         pounds = 0;
     }
 
-    public Weight(int stns,int pds)
+    public Weight(int stones,int pounds)
     {
-        setStones(stns);
-        setPounds(pds);
+        setStones(stones);
+        setPounds(pounds);
     }
 
     private void setPounds(int pds) { pounds = pds;}
