@@ -26,7 +26,7 @@ public class Weight {
 
     @Override
     public String toString() {
-        return stones + " St " + pounds + " lb";
+        return stones + " st " + pounds + " lb";
     }
 
 }
