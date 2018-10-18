@@ -1,2 +1,4 @@
-public class Taxable {
+interface Taxable
+{
+    public double calcTax();
 }

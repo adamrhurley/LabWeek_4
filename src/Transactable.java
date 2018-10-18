@@ -1,2 +1,5 @@
-public class Transactable {
+interface Transactable
+{
+    public void lodge();
+    public void withdraw();
 }
