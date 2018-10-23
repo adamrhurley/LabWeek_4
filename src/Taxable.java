@@ -1,4 +1,4 @@
-interface Taxable
+public interface Taxable
 {
-    public double calcTax();
+    double calcTax();
 }

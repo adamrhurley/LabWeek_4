@@ -1,5 +1,5 @@
-interface Transactable
+public interface Transactable
 {
-    public void lodge();
-    public void withdraw();
+    void lodge();
+    void withdraw();
 }
